@@ -83,3 +83,94 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 - [X] 25.- Crear las variables **preI** y **preJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de preI el valor de ++preJ**
 
 - [X] 26.- Crear la variable **sumaImpares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10) si la iteración es impar se deberá sumar a sumaImpares el número de la iteración actual (i)**
+
+
+<br/>
+<br/>
+
+![logotipo de The Bridge](https://user-images.githubusercontent.com/27650532/77754601-e8365180-702b-11ea-8bed-5bc14a43f869.png  "logotipo de The Bridge")
+
+# :european_castle: :crossed_swords: Bikram #
+
+## Introduction ##
+A Bikram is a combination of 26 programming exercises designed to perfect the connection between the inner programmer within you and the soul of the programming language. Utilize the checkboxes in the statement to mark the exercises you have completed.
+
+These 26 tests cover an incremental range of difficulty and are equipped with tests that ensure the correct resolution to help you find potential errors in your code.
+
+The solutions for the Bikrams must be made in ./index.js and should be uploaded to GitHub. Additionally, a screenshot of the tests must be included.
+
+This time, the Bikram is divided into :crossed_swords: Pair Programming :crossed_swords: and :european_castle: individual project :european_castle:
+
+## Iterations :crossed_swords: Pair Programming :crossed_swords: ##
+
+### Variables ###
+
+- [X] 1.- Create a **let** variable named **variableWithoutValue** declared **without a value**.
+
+- [X] 2.- Create **2 let variables** named **booleano1** and **booleano2** with **boolean values**
+
+- [X] 3.- Create a **const** variable named **PI** declared with the value **3.14**
+
+- [X] 4.- Create a **const** variable named **TAU** declared with the value **2 times PI**
+
+### Booleans ###
+
+- [X] 5.- Create a variable named **booleanoAnd** whose value is the boolean comparison **booleano1 and booleano2**
+
+- [X] 6.- Create a variable **booleanoNot** whose value is the boolean comparison **not booleano1**
+
+- [X] 7.- Create a variable **booleanoMix0** whose value is the boolean comparison **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2))**
+
+### Operators ###
+
+- [X] 8.- Create a variable **incrementarDesp** with a value of **2** and **assign its value with post-increment to **resultadoDesp**
+
+- [X] 9.- Create a variable **incrementarAntes** with a value of **2** and **assign its value with pre-increment to resultadoAntes**
+
+### Loops ###
+
+- [X] 10.- Create a variable **contarHasta10_2** with a value **0** and increment its value with a **for loop until contarHasta10_2 === 10** 
+
+- [X] 11.- Create variables **postI** and **postJ** with a value of **0** then create **a loop that iterates 11 times**. In each iteration, you should **add the value of postJ++ to the value of postI**
+
+- [X] 12.- Create a variable **sumaPares** with a value of **0**, then create a loop that **iterate 10 times (i < 10)**. If the iteration is even, you should **add the current iteration number to sumaPares**
+
+## Iterations :european_castle: individual project :european_castle: ##
+
+### Variables ###
+
+- [X] 13.- Create a **let** variable named **variableValorNumerico** declared with an **arbitrary numeric value**
+
+- [X] 14.- Create a **const** variable named **MiNombre** declared with the value **tu nombre**
+
+- [X] 15.- Create a **const** variable named **MiNumeroFav** declared with a **numeric value**
+
+### Booleans ###
+
+- [X] 16.- Create **booleanoOr** variable whose value is the boolean comparison **booleano1 or booleano2**
+
+- [X] 17.- Create **booleanoMix1** variable whose value is the boolean comparison **(booleano1 and (TAU/2 is equal to PI)) or (variableValorNumerico greater than or equal que MiNumeroFav)**
+
+- [X] 18.- Create variable **seisNoEsNueve** whose value is the boolean comparison **6 is not strictly equal to 9**
+
+
+- [X] 19.- Create variable **booleanoMix2** whose value is the boolean comparison **variableValorNumerico is positive (0 not included) or less than -(MiNumeroFav * TAU)**
+
+### Operators ###
+
+- [X] 20.- Create a variable **valorSuma** whose value is **the sum of MiNumeroFav and variableValorNumerico**
+
+- [X] 21.- Create a variable **valorResta** whose value is **the subtraction of MiNumeroFav and variableValorNumerico**
+
+- [X] 22.- Create a variable **valorMultiplicación** whose value is **the multiplication of MiNumeroFav by variableValorNumerico**
+
+- [X] 23.- Create a variable **valorDivisión** whose value is **la division of MiNumeroFav by 3**
+
+### Loops ###
+
+- [X] 24.- Create a variable **contarHasta10** with the value **0** and increment its value  with a **while loop until contarHasta10 === 10**
+
+- [X] 25.- Create variables **preI** and **preJ** with **0** value, then create a **a loop that iterates 11 times**. In each iteration, you should **add preI to the value of ++preJ**
+
+- [X] 26.- Create a variable **sumaImpares** with a value of **0**, then create a loop that **iterates 10 times (i < 10)**. If the iteration is odd, should **ad the current iteration number (i) to sumaImpares**
+
